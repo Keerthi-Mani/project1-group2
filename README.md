@@ -101,6 +101,9 @@ var myChart = document.getElementById('myChart').getContext('2d');
 ```
 It's that easy to get started using Chart.js! From here you can explore the many options that can help you customize your charts with scales, tooltips, labels, colors, custom actions, and much more.
 
+### Github Delpoyed Link
+[Fortune Teller](https://hawkeflansang.github.io/project1-group2/)
+
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/52920074/66786296-e3327b00-eead-11e9-9cbb-7f604aa33968.png)
 
